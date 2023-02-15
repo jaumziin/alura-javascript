@@ -1,2 +1,2 @@
 # alura-javascript
-Projeto com HTML &amp; CSS feito para aprender/praticar JavaScript 
+Projeto com HTML/CSS incluso, com intuito de inserir JavaScript para aprendizagem e prática e desenvolver todo o projeto. Neste documento posso adicionar detalhes sobre o meu intuito com este projeto no qual já disse anteriormente, mas posso também adicionar o que desejo aprender, o que anseio e o que aprendi no final deste curso da Alura, no geral creio que será interessante já que estou aprendendo uma verdadeira linguagem de programação e não marcação de texto/estilização etc.
