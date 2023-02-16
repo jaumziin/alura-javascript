@@ -26,7 +26,9 @@ if(altura <= 0 || altura >= 3.00){
 }
 
 if(alturaEhValida && pesoEhValido){
-    console.log("Altura e peso válidos!")
+    console.log("Altura e peso válidos!");
+    var imc = peso / (altura * altura); 
     tdImc.textContent = imc;
+} else {
+    tdImc.textContent = "Altura e/ou peso inválidos!"
 }
-
